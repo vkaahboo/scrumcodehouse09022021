@@ -1,3 +1,6 @@
 ## Curso Scrum + Agile Ch
 
-Texto2
+
+Texto3
+
+
