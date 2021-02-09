@@ -1,1 +1,1 @@
-## Curso Scrum Ch
+## Curso Scrum + Agile Ch
